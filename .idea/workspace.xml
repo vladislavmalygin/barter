@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d9e03dee-1b74-46dc-97f7-762b8ee84bee" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/barter/ads/data/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/barter/ads/data/data.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../foodgram/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../foodgram/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../foodgram/backend/api/filters.py" beforeDir="false" afterPath="$PROJECT_DIR$/../foodgram/backend/api/filters.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../foodgram/backend/api/migrations/__init__.py" beforeDir="false" />
@@ -105,6 +107,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/barter/ads/data" />
     </key>
   </component>
