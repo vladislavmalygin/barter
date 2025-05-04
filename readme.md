@@ -57,6 +57,9 @@ python manage.py loaddata ads/data/data.json
 Чтобы запустить тесты, выполните следующую команду:
 python manage.py test
 
+Запустите сервер
+python3 manage.py runserver
+
 Документация доступна по ссылкам
 
 http://127.0.0.1:8000/redoc/
