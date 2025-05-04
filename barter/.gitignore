@@ -36,3 +36,5 @@ Thumbs.db
 # Другие временные файлы
 *.bak
 *.tmp
+
+.sqlite3
