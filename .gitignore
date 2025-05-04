@@ -21,7 +21,7 @@ build/
 # Миграции
 */migrations/*.py
 */migrations/*.pyc
-*/migrations/__init__.py
+barter/ads/migrations/__init__.py
 
 # IDE и редакторы
 .idea/
