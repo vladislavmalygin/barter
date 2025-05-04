@@ -45,6 +45,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 После установки зависимостей выполните миграции базы данных:
+python3 manage.py makemigrations
 python manage.py migrate
 
 Создайте суперпользователя:
@@ -56,7 +57,11 @@ python manage.py loaddata ads/data/data.json
 Чтобы запустить тесты, выполните следующую команду:
 python manage.py test
 
+Документация доступна по ссылкам
 
+http://127.0.0.1:8000/redoc/
+и
+http://127.0.0.1:8000/swagger/
 
 
 

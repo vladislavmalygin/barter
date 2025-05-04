@@ -17,6 +17,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # secondary app
     'rest_framework',
+    'drf_yasg',
     # project apps
     'ads',
 ]
